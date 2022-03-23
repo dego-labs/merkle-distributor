@@ -8,10 +8,6 @@ The following assumes the use of `node@>=10`.
 
 `yarn`
 
-## Compile Contracts
+# Query whether you can claim
 
-`yarn compile`
-
-## Run Tests
-
-`yarn test`
+`./holders`
